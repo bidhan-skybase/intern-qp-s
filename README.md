@@ -5,7 +5,7 @@ Your task is to replicate a specific screen in a Flutter app based on the provid
 
 ## Project Requirements
 - Categories API: `https://66bdd98574dfc195586dd15f.mockapi.io/categories`
-- Sub-Categories API: `https://66bdd98574dfc195586dd15f.mockapi.io/subcategories/{category_id}`
+- Sub-Categories API: `https://66bdd98574dfc195586dd15f.mockapi.io/categories/{category_id}/subcategories`
 Replace {category_id} with the appropriate category ID to fetch sub-categories.
 
 ## Task Details
